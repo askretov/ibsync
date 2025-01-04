@@ -3,8 +3,8 @@ module github.com/askretov/ibsync
 go 1.23.0
 
 require (
+	github.com/askretov/ibapi v0.0.0-20250104172648-40ef86da3f94
 	github.com/rs/zerolog v1.33.0
-	github.com/scmhub/ibapi v0.0.2-0.20241219170333-115454b12f2f
 )
 
 require (

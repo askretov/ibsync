@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/scmhub/ibapi"
+	"github.com/askretov/ibapi"
 )
 
 const sep = "::"

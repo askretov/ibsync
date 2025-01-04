@@ -6,7 +6,7 @@ to manage multiple imports and providing a more straightforward API surface for 
 */
 package ibsync
 
-import "github.com/scmhub/ibapi"
+import "github.com/askretov/ibapi"
 
 const (
 	UNSET_INT       = ibapi.UNSET_INT

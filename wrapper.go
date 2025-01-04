@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/scmhub/ibapi"
+	"github.com/askretov/ibapi"
 )
 
 var _ ibapi.EWrapper = (*WrapperSync)(nil)
