@@ -1,4 +1,4 @@
-module github.com/scmhub/ibsync
+module github.com/askretov/ibsync
 
 go 1.23.0
 
